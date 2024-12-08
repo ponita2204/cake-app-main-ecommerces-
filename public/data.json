@@ -1,0 +1,77 @@
+[
+	{
+		"id":1,
+		"title": "Cups Cake",
+		"price": "15.09",
+		"catid": 1,
+		"category":"cupcakes",
+		"img":"/img/aaa/cupcake1.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Chocolate Cake ",
+		"price": "15.00",
+		"catid": 2,
+		"category":"Brownies cakes",
+		"img":"/img/aaa/cake1.jpg"
+	},
+	{
+		"id": 3,
+		"title": "WeddingCake",
+		"price": "30.02",
+		"catid": 3,
+		"category":"sweets",
+		"img":"/img/aaa/wedding.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Doughnut",
+		"price": "14",
+		"catid": 4,
+		"category":"Doughnuts",
+		"img":"/img/aaa/donut1.png"
+		
+	},
+	{
+		"id": 5,
+		"title": "Cakes",
+		"price": "16",
+		"catid":5,
+		"category":"cakes",
+		"img":"/img/aaa/cake2.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Fruit candy",
+		"price": "19",
+		"catid":6,
+		"category":"Candy",
+		"img":"/img/aaa/1.jpg"
+	}, 
+	{
+		"id": 8,
+		"title": "Sweet Bread",
+		"price": "10",
+		"catid":9,
+		"category":"Sweet_Bread",
+		"img":"/img/aaa/bread5.png"
+	},
+	{
+		"id": 6,
+		"title": "Italian Bread",
+		"price": "11.09",
+		"catid":8,
+		"category": "Caramel Cake",
+		"img":"/img/aaa/bread4.png"
+	},
+	{
+		"id": 8,
+		"title": "Banana Bread",
+		"price": "11",
+		"catid":10,
+		"category":"Bread",
+		"img":"/img/aaa/bread.jpg"
+	}
+
+
+]
